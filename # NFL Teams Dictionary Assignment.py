@@ -17,6 +17,7 @@ nflTeams = {
 
 
 # 3. Add a new team to the dictionary
+##Kansas City Chiefs with 3 Superbowl wins
 
 # 4. Remove a team using del or .pop()
 
